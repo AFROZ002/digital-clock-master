@@ -1,2 +1,3 @@
-# digital-clock-master
-A digital clock which shows the current time.
+# Digital-Clock
+Digital clock showing real time.
+Created using basic knowledge of HTML ,CSS,JavaScript.
